@@ -4,3 +4,5 @@ Cosmars
 Q 1
 "Possible blogs is the mind."
 
+Q 1.1
+"The best Tech life to learn Fullstack"
